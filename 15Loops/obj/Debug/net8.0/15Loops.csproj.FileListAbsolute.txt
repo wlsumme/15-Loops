@@ -1,0 +1,14 @@
+C:\Users\wlsum\OneDrive\Desktop\repos\15Loops\15Loops\obj\Debug\net8.0\15Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wlsum\OneDrive\Desktop\repos\15Loops\15Loops\obj\Debug\net8.0\15Loops.AssemblyInfoInputs.cache
+C:\Users\wlsum\OneDrive\Desktop\repos\15Loops\15Loops\obj\Debug\net8.0\15Loops.AssemblyInfo.cs
+C:\Users\wlsum\OneDrive\Desktop\repos\15Loops\15Loops\obj\Debug\net8.0\15Loops.csproj.CoreCompileInputs.cache
+C:\Users\wlsum\OneDrive\Desktop\repos\15Loops\15Loops\bin\Debug\net8.0\15Loops.exe
+C:\Users\wlsum\OneDrive\Desktop\repos\15Loops\15Loops\bin\Debug\net8.0\15Loops.deps.json
+C:\Users\wlsum\OneDrive\Desktop\repos\15Loops\15Loops\bin\Debug\net8.0\15Loops.runtimeconfig.json
+C:\Users\wlsum\OneDrive\Desktop\repos\15Loops\15Loops\bin\Debug\net8.0\15Loops.dll
+C:\Users\wlsum\OneDrive\Desktop\repos\15Loops\15Loops\bin\Debug\net8.0\15Loops.pdb
+C:\Users\wlsum\OneDrive\Desktop\repos\15Loops\15Loops\obj\Debug\net8.0\15Loops.dll
+C:\Users\wlsum\OneDrive\Desktop\repos\15Loops\15Loops\obj\Debug\net8.0\refint\15Loops.dll
+C:\Users\wlsum\OneDrive\Desktop\repos\15Loops\15Loops\obj\Debug\net8.0\15Loops.pdb
+C:\Users\wlsum\OneDrive\Desktop\repos\15Loops\15Loops\obj\Debug\net8.0\15Loops.genruntimeconfig.cache
+C:\Users\wlsum\OneDrive\Desktop\repos\15Loops\15Loops\obj\Debug\net8.0\ref\15Loops.dll
